@@ -121,18 +121,34 @@ plt.show()
 
 
 
+
+
 <img width="566" height="371" alt="download" src="https://github.com/user-attachments/assets/234740c9-9eac-4b9f-84de-d2410c6224f9" />
+
+
+
 
 
 <img width="440" height="435" alt="download" src="https://github.com/user-attachments/assets/23b5dd62-b2bd-47c0-9bab-c0e8697feb60" />
 
 
+
+
+
 <img width="566" height="371" alt="download" src="https://github.com/user-attachments/assets/fb0e8b0c-7242-446a-991b-471b88a8cb25" />
+
+
+
+
 
 <img width="440" height="435" alt="download" src="https://github.com/user-attachments/assets/766efeb1-16cc-4ef8-906f-2f1f0853c96a" />
 
 
+
+
+
 <img width="566" height="371" alt="download" src="https://github.com/user-attachments/assets/420eae09-e134-4a84-8ed6-de2ca50ef008" />
+
 
 
 
